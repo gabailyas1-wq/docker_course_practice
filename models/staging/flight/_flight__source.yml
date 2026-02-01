@@ -1,0 +1,16 @@
+sources:
+  - name: demo_src
+    description: Data for Air travel
+    tables:
+      - name: aircrafts_data
+        description: AirDate
+      - name: aircrafts
+        description: Models aircrafts
+        columns:
+          - name: aircraft_code
+            description: Code Models
+          - name: model
+            description: Name model aircraft
+          - name: range
+            description: Unknown 
+
